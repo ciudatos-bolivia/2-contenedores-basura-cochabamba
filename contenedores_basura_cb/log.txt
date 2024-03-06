@@ -1,0 +1,15 @@
+Warning 6: Normalized/laundered field name: '_submission_time' to '_submissio'
+Warning 6: Field _submissio create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'tipo_de_contenedor' to 'tipo_de_co'
+Warning 6: Normalized/laundered field name: 'tipos_de_basura' to 'tipos_de_b'
+Warning 6: Normalized/laundered field name: 'observaciones' to 'observacio'
+Warning 6: Normalized/laundered field name: '_submission_time' to '_submissio'
+Warning 6: Field _submissio create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'tipo_de_contenedor' to 'tipo_de_co'
+Warning 6: Normalized/laundered field name: 'tipos_de_basura' to 'tipos_de_b'
+Warning 6: Normalized/laundered field name: 'observaciones' to 'observacio'
+Warning 6: Normalized/laundered field name: '_submission_time' to '_submissio'
+Warning 6: Field _submissio create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'tipo_de_contenedor' to 'tipo_de_co'
+Warning 6: Normalized/laundered field name: 'tipos_de_basura' to 'tipos_de_b'
+Warning 6: Normalized/laundered field name: 'observaciones' to 'observacio'

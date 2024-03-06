@@ -1,0 +1,4413 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15853071,-17.39431778,2598 ]
+    },
+    "properties": {
+    "_id":45596684,
+    "_submission_time":"2020-01-27 21:30:03+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Le falta el basurero orgánico",
+    "photo_url":"<a href=\"https://postimg.cc/wyrx6F5y\" target=\"_blank\"><img src=\"https://i.postimg.cc/wyrx6F5y/1580153044126.jpg\" alt=\"1580153044126\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16389018,-17.39346249,2609 ]
+    },
+    "properties": {
+    "_id":45596685,
+    "_submission_time":"2020-01-27 21:30:05+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/CdZLvTYj\" target=\"_blank\"><img src=\"https://i.postimg.cc/CdZLvTYj/1580155165905.jpg\" alt=\"1580155165905\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16245931,-17.39314009,2601 ]
+    },
+    "properties": {
+    "_id":45596686,
+    "_submission_time":"2020-01-27 21:30:07+00",
+    "precision":2,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/4Hhfntw8\" target=\"_blank\"><img src=\"https://i.postimg.cc/4Hhfntw8/1580155409727.jpg\" alt=\"1580155409727\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16195388,-17.39323694,2591 ]
+    },
+    "properties": {
+    "_id":45596689,
+    "_submission_time":"2020-01-27 21:30:11+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/8sqk9KPx\" target=\"_blank\"><img src=\"https://i.postimg.cc/8sqk9KPx/1580155531454.jpg\" alt=\"1580155531454\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1620325,-17.39338999,2608 ]
+    },
+    "properties": {
+    "_id":45597426,
+    "_submission_time":"2020-01-27 21:51:23+00",
+    "precision":2,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/sv7frYMx\" target=\"_blank\"><img src=\"https://i.postimg.cc/sv7frYMx/1580155613201.jpg\" alt=\"1580155613201\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16161584,-17.39335152,2598 ]
+    },
+    "properties": {
+    "_id":45603259,
+    "_submission_time":"2020-01-28 03:15:49+00",
+    "precision":2,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/v4yYH4nz\" target=\"_blank\"><img src=\"https://i.postimg.cc/v4yYH4nz/1580155689301.jpg\" alt=\"1580155689301\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16133446,-17.39332243,2600 ]
+    },
+    "properties": {
+    "_id":45603264,
+    "_submission_time":"2020-01-28 03:16:05+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/9DBW4ctj\" target=\"_blank\"><img src=\"https://i.postimg.cc/9DBW4ctj/1580155752033.jpg\" alt=\"1580155752033\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16156622,-17.39313254,2598 ]
+    },
+    "properties": {
+    "_id":45603296,
+    "_submission_time":"2020-01-28 03:18:27+00",
+    "precision":2,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/yJY7c2v3\" target=\"_blank\"><img src=\"https://i.postimg.cc/yJY7c2v3/1580155830234.jpg\" alt=\"1580155830234\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16116573,-17.39313485,2601 ]
+    },
+    "properties": {
+    "_id":45603323,
+    "_submission_time":"2020-01-28 03:19:34+00",
+    "precision":2,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/628w1ns9\" target=\"_blank\"><img src=\"https://i.postimg.cc/628w1ns9/1580155905610.jpg\" alt=\"1580155905610\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16100287,-17.39301272,2603 ]
+    },
+    "properties": {
+    "_id":45603329,
+    "_submission_time":"2020-01-28 03:19:45+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/06WPfZBW\" target=\"_blank\"><img src=\"https://i.postimg.cc/06WPfZBW/1580155967210.jpg\" alt=\"1580155967210\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15990291,-17.39278872,2600 ]
+    },
+    "properties": {
+    "_id":45603302,
+    "_submission_time":"2020-01-28 03:18:39+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/rRWTqTF3\" target=\"_blank\"><img src=\"https://i.postimg.cc/rRWTqTF3/1580156150722.jpg\" alt=\"1580156150722\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15918844,-17.39252632,2596 ]
+    },
+    "properties": {
+    "_id":45603339,
+    "_submission_time":"2020-01-28 03:19:55+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/GHwrq4XC\" target=\"_blank\"><img src=\"https://i.postimg.cc/GHwrq4XC/1580156363560.jpg\" alt=\"1580156363560\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15887647,-17.39276085,2603 ]
+    },
+    "properties": {
+    "_id":45601374,
+    "_submission_time":"2020-01-28 01:41:27+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/7f34cqRT\" target=\"_blank\"><img src=\"https://i.postimg.cc/7f34cqRT/1580156445962.jpg\" alt=\"1580156445962\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15867295,-17.39369459,2612 ]
+    },
+    "properties": {
+    "_id":45601381,
+    "_submission_time":"2020-01-28 01:41:35+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/3k9T8nY8\" target=\"_blank\"><img src=\"https://i.postimg.cc/3k9T8nY8/1580156593033.jpg\" alt=\"1580156593033\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15831035,-17.39575302,2604 ]
+    },
+    "properties": {
+    "_id":45601382,
+    "_submission_time":"2020-01-28 01:41:42+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/BLRsWbs2\" target=\"_blank\"><img src=\"https://i.postimg.cc/BLRsWbs2/1580156826418.jpg\" alt=\"1580156826418\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15828856,-17.39578504,2614 ]
+    },
+    "properties": {
+    "_id":45603344,
+    "_submission_time":"2020-01-28 03:20:05+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Uno al lado del otro, al lado de una parada, mal olor",
+    "photo_url":"<a href=\"https://postimg.cc/k27CPkrY\" target=\"_blank\"><img src=\"https://i.postimg.cc/k27CPkrY/1580156937561.jpg\" alt=\"1580156937561\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15825512,-17.39577607,2606 ]
+    },
+    "properties": {
+    "_id":45603348,
+    "_submission_time":"2020-01-28 03:20:18+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Uno al lado del otro, en una parada",
+    "photo_url":"<a href=\"https://postimg.cc/Jy2CJ0sS\" target=\"_blank\"><img src=\"https://i.postimg.cc/Jy2CJ0sS/1580157014135.jpg\" alt=\"1580157014135\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1581656,-17.39646439,2608 ]
+    },
+    "properties": {
+    "_id":45603351,
+    "_submission_time":"2020-01-28 03:20:29+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/tnFKLzBH\" target=\"_blank\"><img src=\"https://i.postimg.cc/tnFKLzBH/1580157142052.jpg\" alt=\"1580157142052\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15685978,-17.39638015,2604 ]
+    },
+    "properties": {
+    "_id":45601796,
+    "_submission_time":"2020-01-28 02:11:36+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/vxRRqKLz\" target=\"_blank\"><img src=\"https://i.postimg.cc/vxRRqKLz/1580157372217.jpg\" alt=\"1580157372217\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15416357,-17.39392526,2624 ]
+    },
+    "properties": {
+    "_id":45601870,
+    "_submission_time":"2020-01-28 02:16:21+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/wyR8kzJM\" target=\"_blank\"><img src=\"https://i.postimg.cc/wyR8kzJM/1580158149607.jpg\" alt=\"1580158149607\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15417304,-17.39373331,2604 ]
+    },
+    "properties": {
+    "_id":45601872,
+    "_submission_time":"2020-01-28 02:16:29+00",
+    "precision":2,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/8sWgJ1Nn\" target=\"_blank\"><img src=\"https://i.postimg.cc/8sWgJ1Nn/1580158300289.jpg\" alt=\"1580158300289\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15453749,-17.39196607,2608 ]
+    },
+    "properties": {
+    "_id":45603369,
+    "_submission_time":"2020-01-28 03:21:08+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/svrd5t2f\" target=\"_blank\"><img src=\"https://i.postimg.cc/svrd5t2f/1580158542157.jpg\" alt=\"1580158542157\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15455132,-17.39173134,2606 ]
+    },
+    "properties": {
+    "_id":45603372,
+    "_submission_time":"2020-01-28 03:21:17+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/jDxpFPNG\" target=\"_blank\"><img src=\"https://i.postimg.cc/jDxpFPNG/1580158653239.jpg\" alt=\"1580158653239\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15459155,-17.39070078,2599 ]
+    },
+    "properties": {
+    "_id":45603375,
+    "_submission_time":"2020-01-28 03:21:26+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/bs9Xg3Gx\" target=\"_blank\"><img src=\"https://i.postimg.cc/bs9Xg3Gx/1580158826146.jpg\" alt=\"1580158826146\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15396182,-17.39054316,2604 ]
+    },
+    "properties": {
+    "_id":45603378,
+    "_submission_time":"2020-01-28 03:21:50+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/VJKxQvW5\" target=\"_blank\"><img src=\"https://i.postimg.cc/VJKxQvW5/1580158937708.jpg\" alt=\"1580158937708\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15262776,-17.39025185,2611 ]
+    },
+    "properties": {
+    "_id":45603382,
+    "_submission_time":"2020-01-28 03:22:00+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/7CcjhRck\" target=\"_blank\"><img src=\"https://i.postimg.cc/7CcjhRck/1580159113195.jpg\" alt=\"1580159113195\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15477537,-17.39081243,2603 ]
+    },
+    "properties": {
+    "_id":45603386,
+    "_submission_time":"2020-01-28 03:22:09+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/TyhZRxt0\" target=\"_blank\"><img src=\"https://i.postimg.cc/TyhZRxt0/1580159745373.jpg\" alt=\"1580159745373\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15553636,-17.39082739,2605 ]
+    },
+    "properties": {
+    "_id":45603399,
+    "_submission_time":"2020-01-28 03:22:21+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/2qPXrZbj\" target=\"_blank\"><img src=\"https://i.postimg.cc/2qPXrZbj/1580159865676.jpg\" alt=\"1580159865676\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15576569,-17.39082098,2596 ]
+    },
+    "properties": {
+    "_id":45603401,
+    "_submission_time":"2020-01-28 03:22:30+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Le falta un basurero",
+    "photo_url":"<a href=\"https://postimg.cc/5HHkh3tk\" target=\"_blank\"><img src=\"https://i.postimg.cc/5HHkh3tk/1580159938497.jpg\" alt=\"1580159938497\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15588698,-17.39095241,2601 ]
+    },
+    "properties": {
+    "_id":45603405,
+    "_submission_time":"2020-01-28 03:22:38+00",
+    "precision":2.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/w14G4P9m\" target=\"_blank\"><img src=\"https://i.postimg.cc/w14G4P9m/1580160016248.jpg\" alt=\"1580160016248\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15638469,-17.39101435,2600 ]
+    },
+    "properties": {
+    "_id":45603318,
+    "_submission_time":"2020-01-28 03:19:16+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Votaron un foco fluorescente en él",
+    "photo_url":"<a href=\"https://postimg.cc/jDS1XKYT\" target=\"_blank\"><img src=\"https://i.postimg.cc/jDS1XKYT/1580160092057.jpg\" alt=\"1580160092057\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15794574,-17.3912757,2600 ]
+    },
+    "properties": {
+    "_id":45603314,
+    "_submission_time":"2020-01-28 03:19:05+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/9RZgMQZd\" target=\"_blank\"><img src=\"https://i.postimg.cc/9RZgMQZd/1580160312002.jpg\" alt=\"1580160312002\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1581029,-17.39127599,2592 ]
+    },
+    "properties": {
+    "_id":45603307,
+    "_submission_time":"2020-01-28 03:18:52+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/w7qzSCYf\" target=\"_blank\"><img src=\"https://i.postimg.cc/w7qzSCYf/1580160373105.jpg\" alt=\"1580160373105\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15353853,-17.39153793,2612 ]
+    },
+    "properties": {
+    "_id":45634381,
+    "_submission_time":"2020-01-28 14:03:13+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/XpsW3sVV\" target=\"_blank\"><img src=\"https://i.postimg.cc/XpsW3sVV/1580219971075.jpg\" alt=\"1580219971075\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15353007,-17.39155234,2599 ]
+    },
+    "properties": {
+    "_id":45634405,
+    "_submission_time":"2020-01-28 14:03:27+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/yDWHN0d0\" target=\"_blank\"><img src=\"https://i.postimg.cc/yDWHN0d0/1580220034388.jpg\" alt=\"1580220034388\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15341046,-17.39178129,2622 ]
+    },
+    "properties": {
+    "_id":45634395,
+    "_submission_time":"2020-01-28 14:03:21+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Le falta un basurero",
+    "photo_url":"<a href=\"https://postimg.cc/bGtfx81J\" target=\"_blank\"><img src=\"https://i.postimg.cc/bGtfx81J/1580220104041.jpg\" alt=\"1580220104041\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15298139,-17.39258395,2601 ]
+    },
+    "properties": {
+    "_id":45641816,
+    "_submission_time":"2020-01-28 15:33:20+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/BjyGPtLk\" target=\"_blank\"><img src=\"https://i.postimg.cc/BjyGPtLk/1580221957078.jpg\" alt=\"1580221957078\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15184799,-17.39234041,2608 ]
+    },
+    "properties": {
+    "_id":47113452,
+    "_submission_time":"2020-02-19 16:38:37+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/cgGyTjcc\" target=\"_blank\"><img src=\"https://i.postimg.cc/cgGyTjcc/1580222117543.jpg\" alt=\"1580222117543\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15090804,-17.39218702,2621 ]
+    },
+    "properties": {
+    "_id":47113455,
+    "_submission_time":"2020-02-19 16:38:38+00",
+    "precision":6,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/tZd0c5SG\" target=\"_blank\"><img src=\"https://i.postimg.cc/tZd0c5SG/1580222254739.jpg\" alt=\"1580222254739\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15089321,-17.39219406,2616 ]
+    },
+    "properties": {
+    "_id":47113467,
+    "_submission_time":"2020-02-19 16:38:45+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Está al lado de otros dos",
+    "photo_url":"<a href=\"https://postimg.cc/sGVFChqQ\" target=\"_blank\"><img src=\"https://i.postimg.cc/sGVFChqQ/1580222324920.jpg\" alt=\"1580222324920\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15097552,-17.39217994,2613 ]
+    },
+    "properties": {
+    "_id":47113468,
+    "_submission_time":"2020-02-19 16:38:46+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Está al lado de otros dos",
+    "photo_url":"<a href=\"https://postimg.cc/xqRDy6NK\" target=\"_blank\"><img src=\"https://i.postimg.cc/xqRDy6NK/1580222393329.jpg\" alt=\"1580222393329\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15100284,-17.39214499,2618 ]
+    },
+    "properties": {
+    "_id":47113491,
+    "_submission_time":"2020-02-19 16:39:00+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Está al lado de otros dos",
+    "photo_url":"<a href=\"https://postimg.cc/mtgxd77K\" target=\"_blank\"><img src=\"https://i.postimg.cc/mtgxd77K/1580222438592.jpg\" alt=\"1580222438592\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15051049,-17.39203552,2601 ]
+    },
+    "properties": {
+    "_id":47113492,
+    "_submission_time":"2020-02-19 16:39:01+00",
+    "precision":4,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Orgánica (hojas de árboles) y plásticos (vasos y platos desechables)",
+    "observaciones":"Está a unos pocos metros de los 3 basureros juntos",
+    "photo_url":"<a href=\"https://postimg.cc/21gP8Jgf\" target=\"_blank\"><img src=\"https://i.postimg.cc/21gP8Jgf/1580222537429.jpg\" alt=\"1580222537429\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15657907,-17.40738161,2619 ]
+    },
+    "properties": {
+    "_id":47113478,
+    "_submission_time":"2020-02-19 16:38:52+00",
+    "precision":10.5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Organica, cartones, plásticos",
+    "observaciones":"Es enorme en día sabado",
+    "photo_url":"<a href=\"https://postimg.cc/5HvDHgMQ\" target=\"_blank\"><img src=\"https://i.postimg.cc/5HvDHgMQ/1580605468015.jpg\" alt=\"1580605468015\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15673397,-17.40638508,2584 ]
+    },
+    "properties": {
+    "_id":47113481,
+    "_submission_time":"2020-02-19 16:38:54+00",
+    "precision":10,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Plasticos",
+    "observaciones":"Es un botadero en un árbol, q está al lado de otros botaderos en arboles",
+    "photo_url":"<a href=\"https://postimg.cc/1nQ2DF9C\" target=\"_blank\"><img src=\"https://i.postimg.cc/1nQ2DF9C/1580605605632.jpg\" alt=\"1580605605632\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15081,-17.39447333,2571.8 ]
+    },
+    "properties": {
+    "_id":46641175,
+    "_submission_time":"2020-02-12 23:12:18+00",
+    "precision":7.7,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/F7WMw1Zz\" target=\"_blank\"><img src=\"https://i.postimg.cc/F7WMw1Zz/1581536255132.jpg\" alt=\"1581536255132\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.150425,-17.3944,2572 ]
+    },
+    "properties": {
+    "_id":46641176,
+    "_submission_time":"2020-02-12 23:12:21+00",
+    "precision":7.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/dhhbFvHB\" target=\"_blank\"><img src=\"https://i.postimg.cc/dhhbFvHB/1581536365202.jpg\" alt=\"1581536365202\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.14956333,-17.394035,2572 ]
+    },
+    "properties": {
+    "_id":46641177,
+    "_submission_time":"2020-02-12 23:12:23+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/9RYSbf0W\" target=\"_blank\"><img src=\"https://i.postimg.cc/9RYSbf0W/1581536646627.jpg\" alt=\"1581536646627\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15082333,-17.39199167,2604.7 ]
+    },
+    "properties": {
+    "_id":46641178,
+    "_submission_time":"2020-02-12 23:12:26+00",
+    "precision":7.7,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Z0j2y0XH\" target=\"_blank\"><img src=\"https://i.postimg.cc/Z0j2y0XH/1581536986632.jpg\" alt=\"1581536986632\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15086833,-17.39242667,2564.7 ]
+    },
+    "properties": {
+    "_id":46641179,
+    "_submission_time":"2020-02-12 23:12:28+00",
+    "precision":7.7,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/14ybtD74\" target=\"_blank\"><img src=\"https://i.postimg.cc/14ybtD74/1581537080805.jpg\" alt=\"1581537080805\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15134167,-17.39215,2576.9 ]
+    },
+    "properties": {
+    "_id":46641180,
+    "_submission_time":"2020-02-12 23:12:31+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/XpJhK4bb\" target=\"_blank\"><img src=\"https://i.postimg.cc/XpJhK4bb/1581537220461.jpg\" alt=\"1581537220461\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15164167,-17.39219667,2604 ]
+    },
+    "properties": {
+    "_id":46641181,
+    "_submission_time":"2020-02-12 23:12:34+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/fJrPBpz0\" target=\"_blank\"><img src=\"https://i.postimg.cc/fJrPBpz0/1581537582117.jpg\" alt=\"1581537582117\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15183167,-17.39337667,2600 ]
+    },
+    "properties": {
+    "_id":46641182,
+    "_submission_time":"2020-02-12 23:12:37+00",
+    "precision":7.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/ns8PtmQF\" target=\"_blank\"><img src=\"https://i.postimg.cc/ns8PtmQF/1581537946179.jpg\" alt=\"1581537946179\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15090667,-17.39333667,2478.4 ]
+    },
+    "properties": {
+    "_id":46641184,
+    "_submission_time":"2020-02-12 23:12:41+00",
+    "precision":8,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Z9rDYqrr\" target=\"_blank\"><img src=\"https://i.postimg.cc/Z9rDYqrr/1581538122658.jpg\" alt=\"1581538122658\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15223167,-17.39544167,2790.2 ]
+    },
+    "properties": {
+    "_id":46641185,
+    "_submission_time":"2020-02-12 23:12:45+00",
+    "precision":7.4,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/CRnQt75r\" target=\"_blank\"><img src=\"https://i.postimg.cc/CRnQt75r/1581538940553.jpg\" alt=\"1581538940553\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15268167,-17.394595,2590.4 ]
+    },
+    "properties": {
+    "_id":46641186,
+    "_submission_time":"2020-02-12 23:12:48+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/vgb24dzC\" target=\"_blank\"><img src=\"https://i.postimg.cc/vgb24dzC/1581539252845.jpg\" alt=\"1581539252845\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15294167,-17.39472667,2590.5 ]
+    },
+    "properties": {
+    "_id":46641187,
+    "_submission_time":"2020-02-12 23:12:51+00",
+    "precision":7.7,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/hffyzsL4\" target=\"_blank\"><img src=\"https://i.postimg.cc/hffyzsL4/1581539408876.jpg\" alt=\"1581539408876\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15280667,-17.3941,2590.5 ]
+    },
+    "properties": {
+    "_id":46641188,
+    "_submission_time":"2020-02-12 23:12:55+00",
+    "precision":7.2,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/14W732NY\" target=\"_blank\"><img src=\"https://i.postimg.cc/14W732NY/1581539605746.jpg\" alt=\"1581539605746\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15283167,-17.39375333,2558.6 ]
+    },
+    "properties": {
+    "_id":46641190,
+    "_submission_time":"2020-02-12 23:12:58+00",
+    "precision":7.3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/WdZ5S4YQ\" target=\"_blank\"><img src=\"https://i.postimg.cc/WdZ5S4YQ/1581539718857.jpg\" alt=\"1581539718857\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15379833,-17.39268333,2589.2 ]
+    },
+    "properties": {
+    "_id":46641191,
+    "_submission_time":"2020-02-12 23:13:01+00",
+    "precision":7.5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/KKyJWyd4\" target=\"_blank\"><img src=\"https://i.postimg.cc/KKyJWyd4/1581539963779.jpg\" alt=\"1581539963779\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15438167,-17.39277667,2609.1 ]
+    },
+    "properties": {
+    "_id":46641193,
+    "_submission_time":"2020-02-12 23:13:04+00",
+    "precision":7.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/qhJQkxBT\" target=\"_blank\"><img src=\"https://i.postimg.cc/qhJQkxBT/1581540638601.jpg\" alt=\"1581540638601\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15404333,-17.39485833,2608.7 ]
+    },
+    "properties": {
+    "_id":46641195,
+    "_submission_time":"2020-02-12 23:13:07+00",
+    "precision":7.1,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/56YgN0J6\" target=\"_blank\"><img src=\"https://i.postimg.cc/56YgN0J6/1581541235101.jpg\" alt=\"1581541235101\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15381,-17.39470333,2611.6 ]
+    },
+    "properties": {
+    "_id":46641196,
+    "_submission_time":"2020-02-12 23:13:11+00",
+    "precision":7.3,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/nCyksJVT\" target=\"_blank\"><img src=\"https://i.postimg.cc/nCyksJVT/1581541389324.jpg\" alt=\"1581541389324\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15277833,-17.39789667,2574 ]
+    },
+    "properties": {
+    "_id":46641199,
+    "_submission_time":"2020-02-12 23:13:14+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Grande (fierro)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/ygLjW3WS\" target=\"_blank\"><img src=\"https://i.postimg.cc/ygLjW3WS/1581541928622.jpg\" alt=\"1581541928622\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.155275,-17.39381833,2557.6 ]
+    },
+    "properties": {
+    "_id":46641200,
+    "_submission_time":"2020-02-12 23:13:16+00",
+    "precision":7,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/VSRBH0qH\" target=\"_blank\"><img src=\"https://i.postimg.cc/VSRBH0qH/1581542689470.jpg\" alt=\"1581542689470\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15533,-17.39295333,2558.1 ]
+    },
+    "properties": {
+    "_id":46641201,
+    "_submission_time":"2020-02-12 23:13:19+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/PvLWx6BB\" target=\"_blank\"><img src=\"https://i.postimg.cc/PvLWx6BB/1581542849968.jpg\" alt=\"1581542849968\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15581667,-17.39243833,2558.2 ]
+    },
+    "properties": {
+    "_id":46641202,
+    "_submission_time":"2020-02-12 23:13:21+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/gXtyG9BV\" target=\"_blank\"><img src=\"https://i.postimg.cc/gXtyG9BV/1581542975981.jpg\" alt=\"1581542975981\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15604667,-17.39296667,2558.2 ]
+    },
+    "properties": {
+    "_id":46641203,
+    "_submission_time":"2020-02-12 23:13:23+00",
+    "precision":7.1,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/wyjcKxFx\" target=\"_blank\"><img src=\"https://i.postimg.cc/wyjcKxFx/1581543135508.jpg\" alt=\"1581543135508\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.156345,-17.39428333,2557.9 ]
+    },
+    "properties": {
+    "_id":46641204,
+    "_submission_time":"2020-02-12 23:13:25+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/kBbNPpNS\" target=\"_blank\"><img src=\"https://i.postimg.cc/kBbNPpNS/1581543406767.jpg\" alt=\"1581543406767\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15602667,-17.39506667,2558 ]
+    },
+    "properties": {
+    "_id":46641205,
+    "_submission_time":"2020-02-12 23:13:27+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/nM5K5JmZ\" target=\"_blank\"><img src=\"https://i.postimg.cc/nM5K5JmZ/1581543578026.jpg\" alt=\"1581543578026\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.157075,-17.39613333,2560.1 ]
+    },
+    "properties": {
+    "_id":46641206,
+    "_submission_time":"2020-02-12 23:13:29+00",
+    "precision":7.2,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/hhhbpjfp\" target=\"_blank\"><img src=\"https://i.postimg.cc/hhhbpjfp/1581544426096.jpg\" alt=\"1581544426096\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.157195,-17.39552833,2564.1 ]
+    },
+    "properties": {
+    "_id":46641213,
+    "_submission_time":"2020-02-12 23:13:33+00",
+    "precision":7.6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/gxbVzH4T\" target=\"_blank\"><img src=\"https://i.postimg.cc/gxbVzH4T/1581544534123.jpg\" alt=\"1581544534123\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15685833,-17.39531833,2564.1 ]
+    },
+    "properties": {
+    "_id":46641214,
+    "_submission_time":"2020-02-12 23:13:38+00",
+    "precision":8,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/WD20rpBm\" target=\"_blank\"><img src=\"https://i.postimg.cc/WD20rpBm/1581544620658.jpg\" alt=\"1581544620658\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16037333,-17.39840667,2524.4 ]
+    },
+    "properties": {
+    "_id":46714309,
+    "_submission_time":"2020-02-13 21:01:52+00",
+    "precision":7.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/GBqGjwRW\" target=\"_blank\"><img src=\"https://i.postimg.cc/GBqGjwRW/1581621154894.jpg\" alt=\"1581621154894\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15731257,-17.39413376,2598 ]
+    },
+    "properties": {
+    "_id":47118488,
+    "_submission_time":"2020-02-19 17:35:01+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Es un basurero especial, solo para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/47ytLLNm\" target=\"_blank\"><img src=\"https://i.postimg.cc/47ytLLNm/1582130918435.jpg\" alt=\"1582130918435\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15741927,-17.39394873,2594 ]
+    },
+    "properties": {
+    "_id":47118489,
+    "_submission_time":"2020-02-19 17:35:02+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Basurero especial de la plaza\n",
+    "photo_url":"<a href=\"https://postimg.cc/5YrzZB6p\" target=\"_blank\"><img src=\"https://i.postimg.cc/5YrzZB6p/1582131086145.jpg\" alt=\"1582131086145\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15724141,-17.39378817,2594 ]
+    },
+    "properties": {
+    "_id":47118490,
+    "_submission_time":"2020-02-19 17:35:03+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Basurero especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/tnV6ys6b\" target=\"_blank\"><img src=\"https://i.postimg.cc/tnV6ys6b/1582131186008.jpg\" alt=\"1582131186008\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15728709,-17.39348018,2596 ]
+    },
+    "properties": {
+    "_id":47118500,
+    "_submission_time":"2020-02-19 17:35:16+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/Thygn44s\" target=\"_blank\"><img src=\"https://i.postimg.cc/Thygn44s/1582131277312.jpg\" alt=\"1582131277312\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15711853,-17.3934353,2591 ]
+    },
+    "properties": {
+    "_id":47118504,
+    "_submission_time":"2020-02-19 17:35:18+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/Jt9JxQwz\" target=\"_blank\"><img src=\"https://i.postimg.cc/Jt9JxQwz/1582131390932.jpg\" alt=\"1582131390932\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15683673,-17.39337428,2597 ]
+    },
+    "properties": {
+    "_id":47118507,
+    "_submission_time":"2020-02-19 17:35:19+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/N5mXzrY7\" target=\"_blank\"><img src=\"https://i.postimg.cc/N5mXzrY7/1582131467598.jpg\" alt=\"1582131467598\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15673212,-17.39341367,2602 ]
+    },
+    "properties": {
+    "_id":47118515,
+    "_submission_time":"2020-02-19 17:35:25+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Basurero especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/HrmMDskG\" target=\"_blank\"><img src=\"https://i.postimg.cc/HrmMDskG/1582131535001.jpg\" alt=\"1582131535001\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15662081,-17.39346065,2586 ]
+    },
+    "properties": {
+    "_id":47118516,
+    "_submission_time":"2020-02-19 17:35:26+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/FfsJzWSD\" target=\"_blank\"><img src=\"https://i.postimg.cc/FfsJzWSD/1582131608700.jpg\" alt=\"1582131608700\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15661142,-17.39378796,2604 ]
+    },
+    "properties": {
+    "_id":47118518,
+    "_submission_time":"2020-02-19 17:35:28+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/06WKwYdx\" target=\"_blank\"><img src=\"https://i.postimg.cc/06WKwYdx/1582131700760.jpg\" alt=\"1582131700760\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15646658,-17.39400686,2600 ]
+    },
+    "properties": {
+    "_id":47118519,
+    "_submission_time":"2020-02-19 17:35:29+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/vgC1PGNN\" target=\"_blank\"><img src=\"https://i.postimg.cc/vgC1PGNN/1582131913616.jpg\" alt=\"1582131913616\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15664026,-17.39412295,2611 ]
+    },
+    "properties": {
+    "_id":47118524,
+    "_submission_time":"2020-02-19 17:35:40+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/6282L8YZ\" target=\"_blank\"><img src=\"https://i.postimg.cc/6282L8YZ/1582131978988.jpg\" alt=\"1582131978988\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1570063,-17.39421121,2603 ]
+    },
+    "properties": {
+    "_id":47118526,
+    "_submission_time":"2020-02-19 17:35:41+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/0KmzFLg2\" target=\"_blank\"><img src=\"https://i.postimg.cc/0KmzFLg2/1582132061139.jpg\" alt=\"1582132061139\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15700621,-17.39377455,2610 ]
+    },
+    "properties": {
+    "_id":47118532,
+    "_submission_time":"2020-02-19 17:35:43+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/ZCtBpK39\" target=\"_blank\"><img src=\"https://i.postimg.cc/ZCtBpK39/1582132172421.jpg\" alt=\"1582132172421\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15707687,-17.39372711,2605 ]
+    },
+    "properties": {
+    "_id":47118535,
+    "_submission_time":"2020-02-19 17:35:44+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/nMQ9XQsb\" target=\"_blank\"><img src=\"https://i.postimg.cc/nMQ9XQsb/1582132228295.jpg\" alt=\"1582132228295\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15694712,-17.39370951,2612 ]
+    },
+    "properties": {
+    "_id":47118549,
+    "_submission_time":"2020-02-19 17:35:55+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/75q5tsKw\" target=\"_blank\"><img src=\"https://i.postimg.cc/75q5tsKw/1582132312033.jpg\" alt=\"1582132312033\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15683036,-17.39377225,2615 ]
+    },
+    "properties": {
+    "_id":47118551,
+    "_submission_time":"2020-02-19 17:35:56+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Otro:",
+    "otro_tipo":"Madera",
+    "tipos_de_basura":"",
+    "observaciones":"Especial para la plaza",
+    "photo_url":"<a href=\"https://postimg.cc/PLxPTLG7\" target=\"_blank\"><img src=\"https://i.postimg.cc/PLxPTLG7/1582132358216.jpg\" alt=\"1582132358216\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15633474,-17.3942825,2608 ]
+    },
+    "properties": {
+    "_id":47118554,
+    "_submission_time":"2020-02-19 17:35:57+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/NKb536nT\" target=\"_blank\"><img src=\"https://i.postimg.cc/NKb536nT/1582132499998.jpg\" alt=\"1582132499998\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15903111,-17.38389573,2604 ]
+    },
+    "properties": {
+    "_id":47127590,
+    "_submission_time":"2020-02-19 19:54:01+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Ty4hwRf3\" target=\"_blank\"><img src=\"https://i.postimg.cc/Ty4hwRf3/1582137333274.jpg\" alt=\"1582137333274\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16038127,-17.38435635,2619 ]
+    },
+    "properties": {
+    "_id":47127595,
+    "_submission_time":"2020-02-19 19:54:04+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/ftSyS6Rj\" target=\"_blank\"><img src=\"https://i.postimg.cc/ftSyS6Rj/1582137578080.jpg\" alt=\"1582137578080\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1605847,-17.38421541,2613 ]
+    },
+    "properties": {
+    "_id":47127603,
+    "_submission_time":"2020-02-19 19:54:06+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/YLc96b4c\" target=\"_blank\"><img src=\"https://i.postimg.cc/YLc96b4c/1582137668700.jpg\" alt=\"1582137668700\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16013392,-17.38601224,2632 ]
+    },
+    "properties": {
+    "_id":47127610,
+    "_submission_time":"2020-02-19 19:54:10+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/0KpNcDmz\" target=\"_blank\"><img src=\"https://i.postimg.cc/0KpNcDmz/1582138226924.jpg\" alt=\"1582138226924\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16005278,-17.38612058,2611 ]
+    },
+    "properties": {
+    "_id":47127623,
+    "_submission_time":"2020-02-19 19:54:40+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/RqfqS58v\" target=\"_blank\"><img src=\"https://i.postimg.cc/RqfqS58v/1582138268279.jpg\" alt=\"1582138268279\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15890572,-17.3860518,2610 ]
+    },
+    "properties": {
+    "_id":47127624,
+    "_submission_time":"2020-02-19 19:54:43+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Le falta la parte de arriba",
+    "photo_url":"<a href=\"https://postimg.cc/VSdL23nQ\" target=\"_blank\"><img src=\"https://i.postimg.cc/VSdL23nQ/1582138435823.jpg\" alt=\"1582138435823\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15797449,-17.38551423,2624 ]
+    },
+    "properties": {
+    "_id":47127627,
+    "_submission_time":"2020-02-19 19:54:49+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Está al frente de dos basureros verdes grandes",
+    "photo_url":"<a href=\"https://postimg.cc/sGRjQx8s\" target=\"_blank\"><img src=\"https://i.postimg.cc/sGRjQx8s/1582138608574.jpg\" alt=\"1582138608574\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15806543,-17.38550656,2615 ]
+    },
+    "properties": {
+    "_id":47443869,
+    "_submission_time":"2020-02-24 13:32:32+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/34Grxmtt\" target=\"_blank\"><img src=\"https://i.postimg.cc/34Grxmtt/1582138665373.jpg\" alt=\"1582138665373\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15792445,-17.38555702,2607 ]
+    },
+    "properties": {
+    "_id":47443886,
+    "_submission_time":"2020-02-24 13:32:49+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Al lado de otro basurero verde. Hay un indigente trabajando aqu�.",
+    "photo_url":"<a href=\"https://postimg.cc/q6Xk80Vn\" target=\"_blank\"><img src=\"https://i.postimg.cc/q6Xk80Vn/1582138709096.jpg\" alt=\"1582138709096\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15769319,-17.38513805,2609 ]
+    },
+    "properties": {
+    "_id":47443907,
+    "_submission_time":"2020-02-24 13:33:01+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/ZCHbnTLz\" target=\"_blank\"><img src=\"https://i.postimg.cc/ZCHbnTLz/1582138790850.jpg\" alt=\"1582138790850\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15429224,-17.38299505,2621 ]
+    },
+    "properties": {
+    "_id":47443917,
+    "_submission_time":"2020-02-24 13:33:14+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/FYK9J2Pd\" target=\"_blank\"><img src=\"https://i.postimg.cc/FYK9J2Pd/1582139233349.jpg\" alt=\"1582139233349\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15377901,-17.38276429,2607 ]
+    },
+    "properties": {
+    "_id":47443925,
+    "_submission_time":"2020-02-24 13:33:20+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/YvytNbVX\" target=\"_blank\"><img src=\"https://i.postimg.cc/YvytNbVX/1582139660902.jpg\" alt=\"1582139660902\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1528109,-17.38360936,2606 ]
+    },
+    "properties": {
+    "_id":47443936,
+    "_submission_time":"2020-02-24 13:33:26+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/RN4Cv3KT\" target=\"_blank\"><img src=\"https://i.postimg.cc/RN4Cv3KT/1582139892447.jpg\" alt=\"1582139892447\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15396123,-17.38544671,2611 ]
+    },
+    "properties": {
+    "_id":47443954,
+    "_submission_time":"2020-02-24 13:33:35+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/CZBScbpw\" target=\"_blank\"><img src=\"https://i.postimg.cc/CZBScbpw/1582140181225.jpg\" alt=\"1582140181225\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1539034,-17.38568585,2615 ]
+    },
+    "properties": {
+    "_id":47443974,
+    "_submission_time":"2020-02-24 13:33:42+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Está al lado de otro verde",
+    "photo_url":"<a href=\"https://postimg.cc/R3k9yqvK\" target=\"_blank\"><img src=\"https://i.postimg.cc/R3k9yqvK/1582140237182.jpg\" alt=\"1582140237182\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15393567,-17.38569058,2609 ]
+    },
+    "properties": {
+    "_id":47443994,
+    "_submission_time":"2020-02-24 13:33:48+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Está al lado de otro grande verde",
+    "photo_url":"<a href=\"https://postimg.cc/8JLDSDC3\" target=\"_blank\"><img src=\"https://i.postimg.cc/8JLDSDC3/1582140273362.jpg\" alt=\"1582140273362\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1548664,-17.38642949,2623 ]
+    },
+    "properties": {
+    "_id":47625049,
+    "_submission_time":"2020-02-26 15:12:36+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/sGyzf8Q2\" target=\"_blank\"><img src=\"https://i.postimg.cc/sGyzf8Q2/1582140446107.jpg\" alt=\"1582140446107\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15467026,-17.38658108,2613 ]
+    },
+    "properties": {
+    "_id":47625055,
+    "_submission_time":"2020-02-26 15:12:37+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Tiene un grafiti",
+    "photo_url":"<a href=\"https://postimg.cc/640X80nf\" target=\"_blank\"><img src=\"https://i.postimg.cc/640X80nf/1582140481132.jpg\" alt=\"1582140481132\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15558774,-17.38752446,2605 ]
+    },
+    "properties": {
+    "_id":47625059,
+    "_submission_time":"2020-02-26 15:12:38+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/3WC4jQZn\" target=\"_blank\"><img src=\"https://i.postimg.cc/3WC4jQZn/1582140659764.jpg\" alt=\"1582140659764\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15752036,-17.38807654,2617 ]
+    },
+    "properties": {
+    "_id":48865681,
+    "_submission_time":"2020-03-14 01:36:59+00",
+    "precision":6.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/VdKJT9pt\" target=\"_blank\"><img src=\"https://i.postimg.cc/VdKJT9pt/1582729978612.jpg\" alt=\"1582729978612\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15856315,-17.38826869,2595 ]
+    },
+    "properties": {
+    "_id":48865682,
+    "_submission_time":"2020-03-14 01:37:06+00",
+    "precision":5.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/pmymthM6\" target=\"_blank\"><img src=\"https://i.postimg.cc/pmymthM6/1582730164484.jpg\" alt=\"1582730164484\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15965758,-17.38838118,2594 ]
+    },
+    "properties": {
+    "_id":48865683,
+    "_submission_time":"2020-03-14 01:37:12+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/bZMsYyzN\" target=\"_blank\"><img src=\"https://i.postimg.cc/bZMsYyzN/1582730347265.jpg\" alt=\"1582730347265\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15955372,-17.38948901,2600 ]
+    },
+    "properties": {
+    "_id":48865686,
+    "_submission_time":"2020-03-14 01:37:25+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/zVGBnbvG\" target=\"_blank\"><img src=\"https://i.postimg.cc/zVGBnbvG/1582731629118.jpg\" alt=\"1582731629118\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.159256,-17.38930947,2617 ]
+    },
+    "properties": {
+    "_id":48865687,
+    "_submission_time":"2020-03-14 01:37:30+00",
+    "precision":6.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/s1y1g0RS\" target=\"_blank\"><img src=\"https://i.postimg.cc/s1y1g0RS/1582731685197.jpg\" alt=\"1582731685197\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15844689,-17.38928081,2592 ]
+    },
+    "properties": {
+    "_id":48865689,
+    "_submission_time":"2020-03-14 01:37:35+00",
+    "precision":5.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/nMkrjYHW\" target=\"_blank\"><img src=\"https://i.postimg.cc/nMkrjYHW/1582731799051.jpg\" alt=\"1582731799051\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15714661,-17.38895035,2605 ]
+    },
+    "properties": {
+    "_id":48865691,
+    "_submission_time":"2020-03-14 01:37:48+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/zV2fpzHS\" target=\"_blank\"><img src=\"https://i.postimg.cc/zV2fpzHS/1582731985079.jpg\" alt=\"1582731985079\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15618194,-17.38890882,2640 ]
+    },
+    "properties": {
+    "_id":48865694,
+    "_submission_time":"2020-03-14 01:37:53+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/CRZxQ3jy\" target=\"_blank\"><img src=\"https://i.postimg.cc/CRZxQ3jy/1582732180827.jpg\" alt=\"1582732180827\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15514191,-17.38872794,2611 ]
+    },
+    "properties": {
+    "_id":48865696,
+    "_submission_time":"2020-03-14 01:37:59+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/tsL4QB5s\" target=\"_blank\"><img src=\"https://i.postimg.cc/tsL4QB5s/1582732356733.jpg\" alt=\"1582732356733\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15508541,-17.38864508,2620 ]
+    },
+    "properties": {
+    "_id":48865698,
+    "_submission_time":"2020-03-14 01:38:09+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/McVKW1Pd\" target=\"_blank\"><img src=\"https://i.postimg.cc/McVKW1Pd/1582732420432.jpg\" alt=\"1582732420432\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.14941726,-17.39386287,2593 ]
+    },
+    "properties": {
+    "_id":47870451,
+    "_submission_time":"2020-02-29 18:00:57+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Le falta un contenedor.",
+    "photo_url":"<a href=\"https://postimg.cc/7G4PbbjD\" target=\"_blank\"><img src=\"https://i.postimg.cc/7G4PbbjD/1582988618485.jpg\" alt=\"1582988618485\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.14951768,-17.39320257,2630 ]
+    },
+    "properties": {
+    "_id":47870453,
+    "_submission_time":"2020-02-29 18:01:01+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/qhGJK4dK\" target=\"_blank\"><img src=\"https://i.postimg.cc/qhGJK4dK/1582988774753.jpg\" alt=\"1582988774753\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.14957734,-17.39286994,2595 ]
+    },
+    "properties": {
+    "_id":47870454,
+    "_submission_time":"2020-02-29 18:01:02+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/YjpqHG1z\" target=\"_blank\"><img src=\"https://i.postimg.cc/YjpqHG1z/1582988860280.jpg\" alt=\"1582988860280\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.14991419,-17.39081891,2611 ]
+    },
+    "properties": {
+    "_id":47870455,
+    "_submission_time":"2020-02-29 18:01:03+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Le falta un contenedor",
+    "photo_url":"<a href=\"https://postimg.cc/RJVMQyMD\" target=\"_blank\"><img src=\"https://i.postimg.cc/RJVMQyMD/1582989014236.jpg\" alt=\"1582989014236\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15013662,-17.38986565,2612 ]
+    },
+    "properties": {
+    "_id":47870456,
+    "_submission_time":"2020-02-29 18:01:07+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Chocado",
+    "photo_url":"<a href=\"https://postimg.cc/bsryZ7VG\" target=\"_blank\"><img src=\"https://i.postimg.cc/bsryZ7VG/1582989103484.jpg\" alt=\"1582989103484\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15084564,-17.38768258,2615 ]
+    },
+    "properties": {
+    "_id":47870457,
+    "_submission_time":"2020-02-29 18:01:08+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/G9q3hLKw\" target=\"_blank\"><img src=\"https://i.postimg.cc/G9q3hLKw/1582989317393.jpg\" alt=\"1582989317393\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15692291,-17.38172145,2605 ]
+    },
+    "properties": {
+    "_id":47870458,
+    "_submission_time":"2020-02-29 18:01:10+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/4m0JVWjW\" target=\"_blank\"><img src=\"https://i.postimg.cc/4m0JVWjW/1582990282798.jpg\" alt=\"1582990282798\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15681004,-17.3817594,2609 ]
+    },
+    "properties": {
+    "_id":47870461,
+    "_submission_time":"2020-02-29 18:01:12+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/87rTHhSN\" target=\"_blank\"><img src=\"https://i.postimg.cc/87rTHhSN/1582990349744.jpg\" alt=\"1582990349744\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15919812,-17.38228902,2609 ]
+    },
+    "properties": {
+    "_id":47870464,
+    "_submission_time":"2020-02-29 18:01:14+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/2qQrpryt\" target=\"_blank\"><img src=\"https://i.postimg.cc/2qQrpryt/1582990518184.jpg\" alt=\"1582990518184\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15965628,-17.38231188,2619 ]
+    },
+    "properties": {
+    "_id":47870467,
+    "_submission_time":"2020-02-29 18:01:16+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/tnTjV6k0\" target=\"_blank\"><img src=\"https://i.postimg.cc/tnTjV6k0/1582990606979.jpg\" alt=\"1582990606979\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15984037,-17.38240592,2600 ]
+    },
+    "properties": {
+    "_id":47870473,
+    "_submission_time":"2020-02-29 18:01:19+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/S2V4sdW7\" target=\"_blank\"><img src=\"https://i.postimg.cc/S2V4sdW7/1582990661532.jpg\" alt=\"1582990661532\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15997518,-17.38218679,2614 ]
+    },
+    "properties": {
+    "_id":47870475,
+    "_submission_time":"2020-02-29 18:01:20+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/TLTGfFW3\" target=\"_blank\"><img src=\"https://i.postimg.cc/TLTGfFW3/1582990723359.jpg\" alt=\"1582990723359\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1611698,-17.38250568,2601 ]
+    },
+    "properties": {
+    "_id":47870477,
+    "_submission_time":"2020-02-29 18:01:23+00",
+    "precision":5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Bolsas y envases",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/nMcZ58Jd\" target=\"_blank\"><img src=\"https://i.postimg.cc/nMcZ58Jd/1582991066557.jpg\" alt=\"1582991066557\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16138007,-17.38227426,2603 ]
+    },
+    "properties": {
+    "_id":47870480,
+    "_submission_time":"2020-02-29 18:01:28+00",
+    "precision":5,
+    "objeto":"Acopiador",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Bolsas, domiciliaria",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/9rD2mGzZ\" target=\"_blank\"><img src=\"https://i.postimg.cc/9rD2mGzZ/1582991158708.jpg\" alt=\"1582991158708\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15390569,-17.39472613,2619 ]
+    },
+    "properties": {
+    "_id":47870485,
+    "_submission_time":"2020-02-29 18:01:29+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/3dzTddD6\" target=\"_blank\"><img src=\"https://i.postimg.cc/3dzTddD6/1582993321051.jpg\" alt=\"1582993321051\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15500969,-17.389669,2599 ]
+    },
+    "properties": {
+    "_id":47870486,
+    "_submission_time":"2020-02-29 18:01:31+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/grSdbMcG\" target=\"_blank\"><img src=\"https://i.postimg.cc/grSdbMcG/1582993699642.jpg\" alt=\"1582993699642\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15484691,-17.38973327,2596 ]
+    },
+    "properties": {
+    "_id":47870487,
+    "_submission_time":"2020-02-29 18:01:33+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/QF5r5hQM\" target=\"_blank\"><img src=\"https://i.postimg.cc/QF5r5hQM/1582993780299.jpg\" alt=\"1582993780299\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15504653,-17.38868952,2604 ]
+    },
+    "properties": {
+    "_id":47870490,
+    "_submission_time":"2020-02-29 18:01:36+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/mzdxRDsm\" target=\"_blank\"><img src=\"https://i.postimg.cc/mzdxRDsm/1582993909676.jpg\" alt=\"1582993909676\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15512286,-17.38874218,2598 ]
+    },
+    "properties": {
+    "_id":47870491,
+    "_submission_time":"2020-02-29 18:01:39+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/zH3sfrD8\" target=\"_blank\"><img src=\"https://i.postimg.cc/zH3sfrD8/1582993966075.jpg\" alt=\"1582993966075\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15509899,-17.3887095,2595 ]
+    },
+    "properties": {
+    "_id":47870493,
+    "_submission_time":"2020-02-29 18:01:43+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/474CrcrK\" target=\"_blank\"><img src=\"https://i.postimg.cc/474CrcrK/1582994043986.jpg\" alt=\"1582994043986\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15539834,-17.38843426,2620 ]
+    },
+    "properties": {
+    "_id":47870495,
+    "_submission_time":"2020-02-29 18:01:45+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/kDprpBw4\" target=\"_blank\"><img src=\"https://i.postimg.cc/kDprpBw4/1582994272863.jpg\" alt=\"1582994272863\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15539306,-17.38809432,2594 ]
+    },
+    "properties": {
+    "_id":47870496,
+    "_submission_time":"2020-02-29 18:01:48+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Cd1T7jGX\" target=\"_blank\"><img src=\"https://i.postimg.cc/Cd1T7jGX/1582994348046.jpg\" alt=\"1582994348046\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15554863,-17.38795372,2579 ]
+    },
+    "properties": {
+    "_id":47870498,
+    "_submission_time":"2020-02-29 18:01:50+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/fJGGMpGQ\" target=\"_blank\"><img src=\"https://i.postimg.cc/fJGGMpGQ/1582994418340.jpg\" alt=\"1582994418340\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15557901,-17.38792702,2585 ]
+    },
+    "properties": {
+    "_id":47870499,
+    "_submission_time":"2020-02-29 18:01:51+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Pequeño",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Mn1hHtwM\" target=\"_blank\"><img src=\"https://i.postimg.cc/Mn1hHtwM/1582994477535.jpg\" alt=\"1582994477535\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15572308,-17.38779705,2565 ]
+    },
+    "properties": {
+    "_id":47870506,
+    "_submission_time":"2020-02-29 18:01:55+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/nskgYzCn\" target=\"_blank\"><img src=\"https://i.postimg.cc/nskgYzCn/1582994542929.jpg\" alt=\"1582994542929\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15580377,-17.38780679,2560 ]
+    },
+    "properties": {
+    "_id":47870510,
+    "_submission_time":"2020-02-29 18:01:57+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/1n7d2jGT\" target=\"_blank\"><img src=\"https://i.postimg.cc/1n7d2jGT/1582994610959.jpg\" alt=\"1582994610959\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15662414,-17.38793449,2570 ]
+    },
+    "properties": {
+    "_id":47870515,
+    "_submission_time":"2020-02-29 18:01:58+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/VS12CMs7\" target=\"_blank\"><img src=\"https://i.postimg.cc/VS12CMs7/1582994681748.jpg\" alt=\"1582994681748\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15613329,-17.38809527,2619 ]
+    },
+    "properties": {
+    "_id":47870518,
+    "_submission_time":"2020-02-29 18:02:00+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/zywc8BwT\" target=\"_blank\"><img src=\"https://i.postimg.cc/zywc8BwT/1582994751193.jpg\" alt=\"1582994751193\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15618341,-17.38819926,2600 ]
+    },
+    "properties": {
+    "_id":47870521,
+    "_submission_time":"2020-02-29 18:02:02+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/9r7kg1r8\" target=\"_blank\"><img src=\"https://i.postimg.cc/9r7kg1r8/1582994815967.jpg\" alt=\"1582994815967\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15574022,-17.38879311,2608 ]
+    },
+    "properties": {
+    "_id":47870522,
+    "_submission_time":"2020-02-29 18:02:06+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Pequeño",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/62pSHXvn\" target=\"_blank\"><img src=\"https://i.postimg.cc/62pSHXvn/1582994869271.jpg\" alt=\"1582994869271\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15602821,-17.3880665,2671 ]
+    },
+    "properties": {
+    "_id":47870523,
+    "_submission_time":"2020-02-29 18:02:07+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/wyMfXQCk\" target=\"_blank\"><img src=\"https://i.postimg.cc/wyMfXQCk/1582994930730.jpg\" alt=\"1582994930730\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1556464,-17.3876388,2616 ]
+    },
+    "properties": {
+    "_id":47870525,
+    "_submission_time":"2020-02-29 18:02:08+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/JsC2fJX1\" target=\"_blank\"><img src=\"https://i.postimg.cc/JsC2fJX1/1582995085850.jpg\" alt=\"1582995085850\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15575206,-17.38748093,2601 ]
+    },
+    "properties": {
+    "_id":47870528,
+    "_submission_time":"2020-02-29 18:02:10+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/k6Hjft9P\" target=\"_blank\"><img src=\"https://i.postimg.cc/k6Hjft9P/1582995151824.jpg\" alt=\"1582995151824\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15638992,-17.38693518,2644 ]
+    },
+    "properties": {
+    "_id":47870529,
+    "_submission_time":"2020-02-29 18:02:12+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/CdZrdJHh\" target=\"_blank\"><img src=\"https://i.postimg.cc/CdZrdJHh/1582995211424.jpg\" alt=\"1582995211424\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15684824,-17.38634148,2613 ]
+    },
+    "properties": {
+    "_id":47870530,
+    "_submission_time":"2020-02-29 18:02:13+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Hrm6ZmGn\" target=\"_blank\"><img src=\"https://i.postimg.cc/Hrm6ZmGn/1582995284163.jpg\" alt=\"1582995284163\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15692707,-17.38624977,2602 ]
+    },
+    "properties": {
+    "_id":47870531,
+    "_submission_time":"2020-02-29 18:02:15+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/30Dt6JJ4\" target=\"_blank\"><img src=\"https://i.postimg.cc/30Dt6JJ4/1582995365062.jpg\" alt=\"1582995365062\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15717292,-17.38567355,2615 ]
+    },
+    "properties": {
+    "_id":47870532,
+    "_submission_time":"2020-02-29 18:02:17+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/fJmHfLr1\" target=\"_blank\"><img src=\"https://i.postimg.cc/fJmHfLr1/1582995451714.jpg\" alt=\"1582995451714\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15765546,-17.38517195,2594 ]
+    },
+    "properties": {
+    "_id":47870533,
+    "_submission_time":"2020-02-29 18:02:18+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/pygGj8qD\" target=\"_blank\"><img src=\"https://i.postimg.cc/pygGj8qD/1582995505630.jpg\" alt=\"1582995505630\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15802709,-17.38485319,2624 ]
+    },
+    "properties": {
+    "_id":47870534,
+    "_submission_time":"2020-02-29 18:02:20+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/k2yfLH9c\" target=\"_blank\"><img src=\"https://i.postimg.cc/k2yfLH9c/1582995593897.jpg\" alt=\"1582995593897\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15804416,-17.38472009,2621 ]
+    },
+    "properties": {
+    "_id":47870535,
+    "_submission_time":"2020-02-29 18:02:21+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/XZ7QWgY0\" target=\"_blank\"><img src=\"https://i.postimg.cc/XZ7QWgY0/1582995652691.jpg\" alt=\"1582995652691\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15844646,-17.3840298,2610 ]
+    },
+    "properties": {
+    "_id":47870536,
+    "_submission_time":"2020-02-29 18:02:22+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/HJZ3k7r8\" target=\"_blank\"><img src=\"https://i.postimg.cc/HJZ3k7r8/1582995707854.jpg\" alt=\"1582995707854\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15904853,-17.38331766,2603 ]
+    },
+    "properties": {
+    "_id":47870537,
+    "_submission_time":"2020-02-29 18:02:23+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/SJFdR4xd\" target=\"_blank\"><img src=\"https://i.postimg.cc/SJFdR4xd/1582995771158.jpg\" alt=\"1582995771158\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15930991,-17.38296845,2626 ]
+    },
+    "properties": {
+    "_id":47870539,
+    "_submission_time":"2020-02-29 18:02:24+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Hay un poco de basura alrededor",
+    "photo_url":"<a href=\"https://postimg.cc/rDq9G9Wt\" target=\"_blank\"><img src=\"https://i.postimg.cc/rDq9G9Wt/1582995848356.jpg\" alt=\"1582995848356\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15934127,-17.38282634,2607 ]
+    },
+    "properties": {
+    "_id":47870540,
+    "_submission_time":"2020-02-29 18:02:25+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Pequeño",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/bD4TQcHz\" target=\"_blank\"><img src=\"https://i.postimg.cc/bD4TQcHz/1582995891626.jpg\" alt=\"1582995891626\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15943754,-17.3828821,2573 ]
+    },
+    "properties": {
+    "_id":47870541,
+    "_submission_time":"2020-02-29 18:02:27+00",
+    "precision":3,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/JtBKR0Mt\" target=\"_blank\"><img src=\"https://i.postimg.cc/JtBKR0Mt/1582995941637.jpg\" alt=\"1582995941637\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16080755,-17.38298825,2607 ]
+    },
+    "properties": {
+    "_id":47870542,
+    "_submission_time":"2020-02-29 18:02:28+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/xJX5JTmx\" target=\"_blank\"><img src=\"https://i.postimg.cc/xJX5JTmx/1582996061711.jpg\" alt=\"1582996061711\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16044933,-17.38393767,2609 ]
+    },
+    "properties": {
+    "_id":47870543,
+    "_submission_time":"2020-02-29 18:02:30+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/WhGnJyDv\" target=\"_blank\"><img src=\"https://i.postimg.cc/WhGnJyDv/1582996332411.jpg\" alt=\"1582996332411\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16040173,-17.3840993,2629 ]
+    },
+    "properties": {
+    "_id":47870544,
+    "_submission_time":"2020-02-29 18:02:31+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/tsDNBVtv\" target=\"_blank\"><img src=\"https://i.postimg.cc/tsDNBVtv/1582996418324.jpg\" alt=\"1582996418324\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16049093,-17.38425201,2618 ]
+    },
+    "properties": {
+    "_id":47870546,
+    "_submission_time":"2020-02-29 18:02:32+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/gwJqQkgz\" target=\"_blank\"><img src=\"https://i.postimg.cc/gwJqQkgz/1582996493312.jpg\" alt=\"1582996493312\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16014403,-17.38610254,2606 ]
+    },
+    "properties": {
+    "_id":47870547,
+    "_submission_time":"2020-02-29 18:02:33+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/94nth5kG\" target=\"_blank\"><img src=\"https://i.postimg.cc/94nth5kG/1582996601308.jpg\" alt=\"1582996601308\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16008725,-17.38615765,2594 ]
+    },
+    "properties": {
+    "_id":47870548,
+    "_submission_time":"2020-02-29 18:02:34+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/yg3h6pq2\" target=\"_blank\"><img src=\"https://i.postimg.cc/yg3h6pq2/1582996647971.jpg\" alt=\"1582996647971\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15984216,-17.38710028,2562 ]
+    },
+    "properties": {
+    "_id":47870549,
+    "_submission_time":"2020-02-29 18:02:36+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/RJr7W14h\" target=\"_blank\"><img src=\"https://i.postimg.cc/RJr7W14h/1582996722754.jpg\" alt=\"1582996722754\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15955662,-17.38841634,2601 ]
+    },
+    "properties": {
+    "_id":47870550,
+    "_submission_time":"2020-02-29 18:02:37+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/nCJKZ13w\" target=\"_blank\"><img src=\"https://i.postimg.cc/nCJKZ13w/1582996846219.jpg\" alt=\"1582996846219\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15934387,-17.38883966,2590 ]
+    },
+    "properties": {
+    "_id":47870552,
+    "_submission_time":"2020-02-29 18:02:38+00",
+    "precision":7,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/RJccK3ZR\" target=\"_blank\"><img src=\"https://i.postimg.cc/RJccK3ZR/1582996918235.jpg\" alt=\"1582996918235\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15944775,-17.38899965,2591 ]
+    },
+    "properties": {
+    "_id":47870553,
+    "_submission_time":"2020-02-29 18:02:40+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/HrWQ8kDw\" target=\"_blank\"><img src=\"https://i.postimg.cc/HrWQ8kDw/1582997034033.jpg\" alt=\"1582997034033\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15928217,-17.39036913,2605 ]
+    },
+    "properties": {
+    "_id":47870555,
+    "_submission_time":"2020-02-29 18:02:41+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/4mQ63hM4\" target=\"_blank\"><img src=\"https://i.postimg.cc/4mQ63hM4/1582997144601.jpg\" alt=\"1582997144601\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15928703,-17.39029852,2640 ]
+    },
+    "properties": {
+    "_id":47870558,
+    "_submission_time":"2020-02-29 18:02:42+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/PC61WnTB\" target=\"_blank\"><img src=\"https://i.postimg.cc/PC61WnTB/1582997187495.jpg\" alt=\"1582997187495\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15899729,-17.3913992,2604 ]
+    },
+    "properties": {
+    "_id":47870560,
+    "_submission_time":"2020-02-29 18:02:43+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/CZzkJrKd\" target=\"_blank\"><img src=\"https://i.postimg.cc/CZzkJrKd/1582997299670.jpg\" alt=\"1582997299670\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15908525,-17.39162103,2616 ]
+    },
+    "properties": {
+    "_id":47870563,
+    "_submission_time":"2020-02-29 18:02:44+00",
+    "precision":6,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/vgn9w1fs\" target=\"_blank\"><img src=\"https://i.postimg.cc/vgn9w1fs/1582997358488.jpg\" alt=\"1582997358488\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15800088,-17.39778551,2612 ]
+    },
+    "properties": {
+    "_id":47870567,
+    "_submission_time":"2020-02-29 18:02:46+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/8F9WYdF4\" target=\"_blank\"><img src=\"https://i.postimg.cc/8F9WYdF4/1582997579704.jpg\" alt=\"1582997579704\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15802514,-17.39784811,2616 ]
+    },
+    "properties": {
+    "_id":47870571,
+    "_submission_time":"2020-02-29 18:02:48+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/wRdNq6Qs\" target=\"_blank\"><img src=\"https://i.postimg.cc/wRdNq6Qs/1582997647863.jpg\" alt=\"1582997647863\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15478618,-17.39080585,2604 ]
+    },
+    "properties": {
+    "_id":48865699,
+    "_submission_time":"2020-03-14 01:38:15+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/4Hb9nrW2\" target=\"_blank\"><img src=\"https://i.postimg.cc/4Hb9nrW2/1583245855828.jpg\" alt=\"1583245855828\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15490546,-17.38971419,2620 ]
+    },
+    "properties": {
+    "_id":48865700,
+    "_submission_time":"2020-03-14 01:38:24+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/WhTZx14B\" target=\"_blank\"><img src=\"https://i.postimg.cc/WhTZx14B/1583246029761.jpg\" alt=\"1583246029761\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15511634,-17.38859479,2590 ]
+    },
+    "properties": {
+    "_id":48865702,
+    "_submission_time":"2020-03-14 01:38:36+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Z0r3fdJP\" target=\"_blank\"><img src=\"https://i.postimg.cc/Z0r3fdJP/1583246202982.jpg\" alt=\"1583246202982\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15737711,-17.38859596,2609 ]
+    },
+    "properties": {
+    "_id":48865704,
+    "_submission_time":"2020-03-14 01:38:41+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/7f9z4rGf\" target=\"_blank\"><img src=\"https://i.postimg.cc/7f9z4rGf/1583246931002.jpg\" alt=\"1583246931002\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15738641,-17.3891881,2598 ]
+    },
+    "properties": {
+    "_id":48865709,
+    "_submission_time":"2020-03-14 01:38:47+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/7CGJSCB2\" target=\"_blank\"><img src=\"https://i.postimg.cc/7CGJSCB2/1583247027799.jpg\" alt=\"1583247027799\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15712389,-17.38991561,2612 ]
+    },
+    "properties": {
+    "_id":48865715,
+    "_submission_time":"2020-03-14 01:38:57+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/4KD7PJMF\" target=\"_blank\"><img src=\"https://i.postimg.cc/4KD7PJMF/1583247147626.jpg\" alt=\"1583247147626\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15711752,-17.39006057,2612 ]
+    },
+    "properties": {
+    "_id":48865722,
+    "_submission_time":"2020-03-14 01:39:03+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Está en el medio de la calle",
+    "photo_url":"<a href=\"https://postimg.cc/q6LNp279\" target=\"_blank\"><img src=\"https://i.postimg.cc/q6LNp279/1583247221165.jpg\" alt=\"1583247221165\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15706941,-17.39040138,2598 ]
+    },
+    "properties": {
+    "_id":48865725,
+    "_submission_time":"2020-03-14 01:39:08+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/bS8GXmqx\" target=\"_blank\"><img src=\"https://i.postimg.cc/bS8GXmqx/1583247297592.jpg\" alt=\"1583247297592\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15814774,-17.3903461,2603 ]
+    },
+    "properties": {
+    "_id":48865726,
+    "_submission_time":"2020-03-14 01:39:18+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/t7HDCyT5\" target=\"_blank\"><img src=\"https://i.postimg.cc/t7HDCyT5/1583248112020.jpg\" alt=\"1583248112020\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15859777,-17.38783442,2616 ]
+    },
+    "properties": {
+    "_id":48865729,
+    "_submission_time":"2020-03-14 01:39:24+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/14cB8TVZ\" target=\"_blank\"><img src=\"https://i.postimg.cc/14cB8TVZ/1583248883295.jpg\" alt=\"1583248883295\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15874479,-17.38702528,2601 ]
+    },
+    "properties": {
+    "_id":48865730,
+    "_submission_time":"2020-03-14 01:39:30+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/CzhNkNbn\" target=\"_blank\"><img src=\"https://i.postimg.cc/CzhNkNbn/1583249055584.jpg\" alt=\"1583249055584\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15876088,-17.38703005,2601 ]
+    },
+    "properties": {
+    "_id":48865731,
+    "_submission_time":"2020-03-14 01:39:40+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Hay un basurero y un botadero al lado",
+    "photo_url":"<a href=\"https://postimg.cc/GHXjQyj7\" target=\"_blank\"><img src=\"https://i.postimg.cc/GHXjQyj7/1583249096135.jpg\" alt=\"1583249096135\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1588975,-17.38650325,2604 ]
+    },
+    "properties": {
+    "_id":48865734,
+    "_submission_time":"2020-03-14 01:39:45+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/MnXmrpPW\" target=\"_blank\"><img src=\"https://i.postimg.cc/MnXmrpPW/1583249193355.jpg\" alt=\"1583249193355\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.16235194,-17.38663305,2606 ]
+    },
+    "properties": {
+    "_id":48865736,
+    "_submission_time":"2020-03-14 01:39:52+00",
+    "precision":5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Orgánica",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Sn5f0b3c\" target=\"_blank\"><img src=\"https://i.postimg.cc/Sn5f0b3c/1583251326645.jpg\" alt=\"1583251326645\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.14943299,-17.3723168,2622 ]
+    },
+    "properties": {
+    "_id":48865739,
+    "_submission_time":"2020-03-14 01:40:03+00",
+    "precision":5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Organica",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/T5Rrjd5v\" target=\"_blank\"><img src=\"https://i.postimg.cc/T5Rrjd5v/1583428867186.jpg\" alt=\"1583428867186\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15543804,-17.38555932,2624 ]
+    },
+    "properties": {
+    "_id":48865740,
+    "_submission_time":"2020-03-14 01:40:09+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"A su lado hay un botadero y otros dos",
+    "photo_url":"<a href=\"https://postimg.cc/xkzynFVh\" target=\"_blank\"><img src=\"https://i.postimg.cc/xkzynFVh/1583591105451.jpg\" alt=\"1583591105451\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1554279,-17.38559675,2606 ]
+    },
+    "properties": {
+    "_id":48865741,
+    "_submission_time":"2020-03-14 01:40:16+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"En medio de otros fos",
+    "photo_url":"<a href=\"https://postimg.cc/mzW3DNbD\" target=\"_blank\"><img src=\"https://i.postimg.cc/mzW3DNbD/1583591169076.jpg\" alt=\"1583591169076\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1553875,-17.38562852,2609 ]
+    },
+    "properties": {
+    "_id":48865752,
+    "_submission_time":"2020-03-14 01:40:26+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Al lado de otros dos",
+    "photo_url":"<a href=\"https://postimg.cc/zbwCRbBk\" target=\"_blank\"><img src=\"https://i.postimg.cc/zbwCRbBk/1583591199347.jpg\" alt=\"1583591199347\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15446121,-17.38718843,2594 ]
+    },
+    "properties": {
+    "_id":48865757,
+    "_submission_time":"2020-03-14 01:40:33+00",
+    "precision":6,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Al lado de otro",
+    "photo_url":"<a href=\"https://postimg.cc/kD9FPc1Y\" target=\"_blank\"><img src=\"https://i.postimg.cc/kD9FPc1Y/1583591494006.jpg\" alt=\"1583591494006\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15437589,-17.38716463,2600 ]
+    },
+    "properties": {
+    "_id":48865760,
+    "_submission_time":"2020-03-14 01:40:40+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Al lado de otro",
+    "photo_url":"<a href='https://postimg.cc/kD9FPc1Y' target='_blank'><img src='https://i.postimg.cc/kD9FPc1Y/1583591494006.jpg' border='0' alt='1583591494006'/></a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15421495,-17.38796983,2623 ]
+    },
+    "properties": {
+    "_id":48865762,
+    "_submission_time":"2020-03-14 01:40:53+00",
+    "precision":5.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/w3V5qmnq\" target=\"_blank\"><img src=\"https://i.postimg.cc/w3V5qmnq/1583591647457.jpg\" alt=\"1583591647457\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15401882,-17.38890764,2629 ]
+    },
+    "properties": {
+    "_id":48865763,
+    "_submission_time":"2020-03-14 01:40:58+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/qzvsz7d8\" target=\"_blank\"><img src=\"https://i.postimg.cc/qzvsz7d8/1583591781147.jpg\" alt=\"1583591781147\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15382712,-17.38957623,2611 ]
+    },
+    "properties": {
+    "_id":48865764,
+    "_submission_time":"2020-03-14 01:41:05+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Al lado de otro, encima de la calzada",
+    "photo_url":"<a href=\"https://postimg.cc/NKyRkPFF\" target=\"_blank\"><img src=\"https://i.postimg.cc/NKyRkPFF/1583591869291.jpg\" alt=\"1583591869291\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15386895,-17.38964613,2598 ]
+    },
+    "properties": {
+    "_id":48865765,
+    "_submission_time":"2020-03-14 01:41:16+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Al lado de otro. Sobre la calzada",
+    "photo_url":"<a href=\"https://postimg.cc/LqLfrYzM\" target=\"_blank\"><img src=\"https://i.postimg.cc/LqLfrYzM/1583591933796.jpg\" alt=\"1583591933796\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1537547,-17.39024229,2601 ]
+    },
+    "properties": {
+    "_id":48865767,
+    "_submission_time":"2020-03-14 01:41:22+00",
+    "precision":3.5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Un basurero se está rompiendo",
+    "photo_url":"<a href=\"https://postimg.cc/pmgzGY5Z\" target=\"_blank\"><img src=\"https://i.postimg.cc/pmgzGY5Z/1583592013520.jpg\" alt=\"1583592013520\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15266958,-17.39000094,2597 ]
+    },
+    "properties": {
+    "_id":48865768,
+    "_submission_time":"2020-03-14 01:41:27+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Mv3yR8Wg\" target=\"_blank\"><img src=\"https://i.postimg.cc/Mv3yR8Wg/1583592182977.jpg\" alt=\"1583592182977\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15278559,-17.38925147,2608 ]
+    },
+    "properties": {
+    "_id":48865774,
+    "_submission_time":"2020-03-14 01:41:40+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/hznxgDrQ\" target=\"_blank\"><img src=\"https://i.postimg.cc/hznxgDrQ/1583592289075.jpg\" alt=\"1583592289075\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15289405,-17.38912021,2629 ]
+    },
+    "properties": {
+    "_id":48865776,
+    "_submission_time":"2020-03-14 01:41:45+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/n9cDj3NH\" target=\"_blank\"><img src=\"https://i.postimg.cc/n9cDj3NH/1583592338798.jpg\" alt=\"1583592338798\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15309622,-17.38830477,2598 ]
+    },
+    "properties": {
+    "_id":48865780,
+    "_submission_time":"2020-03-14 01:41:50+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/QVX5yMCR\" target=\"_blank\"><img src=\"https://i.postimg.cc/QVX5yMCR/1583592462802.jpg\" alt=\"1583592462802\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15295239,-17.38817708,2613 ]
+    },
+    "properties": {
+    "_id":48865782,
+    "_submission_time":"2020-03-14 01:41:56+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/F1Dc5QJ1\" target=\"_blank\"><img src=\"https://i.postimg.cc/F1Dc5QJ1/1583592536354.jpg\" alt=\"1583592536354\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15311977,-17.38820252,2627 ]
+    },
+    "properties": {
+    "_id":48866062,
+    "_submission_time":"2020-03-14 01:58:20+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Malo",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Uno de sus tres basureros est´å ajustado al revés",
+    "photo_url":"<a href=\"https://postimg.cc/CZTnHh9r\" target=\"_blank\"><img src=\"https://i.postimg.cc/CZTnHh9r/1583592605861.jpg\" alt=\"1583592605861\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15321089,-17.38714438,2605 ]
+    },
+    "properties": {
+    "_id":48866063,
+    "_submission_time":"2020-03-14 01:58:25+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/sMZZhQHZ\" target=\"_blank\"><img src=\"https://i.postimg.cc/sMZZhQHZ/1583592731363.jpg\" alt=\"1583592731363\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15331993,-17.3869055,2601 ]
+    },
+    "properties": {
+    "_id":48866077,
+    "_submission_time":"2020-03-14 01:59:01+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/ftM3pHzx\" target=\"_blank\"><img src=\"https://i.postimg.cc/ftM3pHzx/1583592805451.jpg\" alt=\"1583592805451\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15429785,-17.38520012,2614 ]
+    },
+    "properties": {
+    "_id":48866078,
+    "_submission_time":"2020-03-14 01:59:06+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/HJwcSGgY\" target=\"_blank\"><img src=\"https://i.postimg.cc/HJwcSGgY/1583593002983.jpg\" alt=\"1583593002983\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15215108,-17.38633017,2609 ]
+    },
+    "properties": {
+    "_id":48866084,
+    "_submission_time":"2020-03-14 01:59:18+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"Al lado de otros dos",
+    "photo_url":"<a href=\"https://postimg.cc/349yTgNz\" target=\"_blank\"><img src=\"https://i.postimg.cc/349yTgNz/1583594064207.jpg\" alt=\"1583594064207\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15214781,-17.38636713,2603 ]
+    },
+    "properties": {
+    "_id":48866087,
+    "_submission_time":"2020-03-14 01:59:27+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Wq3dbhJz\" target=\"_blank\"><img src=\"https://i.postimg.cc/Wq3dbhJz/1583594111800.jpg\" alt=\"1583594111800\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15214773,-17.38638104,2594 ]
+    },
+    "properties": {
+    "_id":48866088,
+    "_submission_time":"2020-03-14 01:59:33+00",
+    "precision":4,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/145nKYYS\" target=\"_blank\"><img src=\"https://i.postimg.cc/145nKYYS/1583594143348.jpg\" alt=\"1583594143348\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15184288,-17.38781787,2607 ]
+    },
+    "properties": {
+    "_id":48866089,
+    "_submission_time":"2020-03-14 01:59:37+00",
+    "precision":4.5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Rqs3pQjH\" target=\"_blank\"><img src=\"https://i.postimg.cc/Rqs3pQjH/1583595051805.jpg\" alt=\"1583595051805\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15169267,-17.38863133,2601 ]
+    },
+    "properties": {
+    "_id":48866091,
+    "_submission_time":"2020-03-14 01:59:52+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Regular",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/56DXb999\" target=\"_blank\"><img src=\"https://i.postimg.cc/56DXb999/1583595136767.jpg\" alt=\"1583595136767\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15159569,-17.39016241,2607 ]
+    },
+    "properties": {
+    "_id":48866092,
+    "_submission_time":"2020-03-14 01:59:58+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/PPCCgvjF\" target=\"_blank\"><img src=\"https://i.postimg.cc/PPCCgvjF/1583595346386.jpg\" alt=\"1583595346386\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1587287,-17.39330732,2563 ]
+    },
+    "properties": {
+    "_id":48425265,
+    "_submission_time":"2020-03-08 10:22:27+00",
+    "precision":13,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/sBr1GnZt\" target=\"_blank\"><img src=\"https://i.postimg.cc/sBr1GnZt/1583598613241.jpg\" alt=\"1583598613241\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15852539,-17.3932901,2581 ]
+    },
+    "properties": {
+    "_id":48425266,
+    "_submission_time":"2020-03-08 10:22:28+00",
+    "precision":22,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/MnRvTkX7\" target=\"_blank\"><img src=\"https://i.postimg.cc/MnRvTkX7/1583598889587.jpg\" alt=\"1583598889587\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15864097,-17.39326064,2599 ]
+    },
+    "properties": {
+    "_id":48425267,
+    "_submission_time":"2020-03-08 10:22:29+00",
+    "precision":7,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Grande (verde)",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/Lq35tzth\" target=\"_blank\"><img src=\"https://i.postimg.cc/Lq35tzth/1583598941182.jpg\" alt=\"1583598941182\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15877166,-17.39239489,2580 ]
+    },
+    "properties": {
+    "_id":48425270,
+    "_submission_time":"2020-03-08 10:22:31+00",
+    "precision":5,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/0M5Qcbnn\" target=\"_blank\"><img src=\"https://i.postimg.cc/0M5Qcbnn/1583599047544.jpg\" alt=\"1583599047544\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15877867,-17.39362356,2598 ]
+    },
+    "properties": {
+    "_id":48425271,
+    "_submission_time":"2020-03-08 10:22:32+00",
+    "precision":11,
+    "objeto":"Contenedor",
+    "estado":"Bueno",
+    "tipo_de_contenedor":"Trilliza",
+    "otro_tipo":"",
+    "tipos_de_basura":"",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/LYys720p\" target=\"_blank\"><img src=\"https://i.postimg.cc/LYys720p/1583599205115.jpg\" alt=\"1583599205115\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15189845,-17.38787516,2613 ]
+    },
+    "properties": {
+    "_id":70566354,
+    "_submission_time":"2020-10-15 18:52:34+00",
+    "precision":5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Vegetal, hogar, escombros",
+    "observaciones":"Basurero previamente mapeado",
+    "photo_url":"<a href=\"https://postimg.cc/y3kNCtwS\" target=\"_blank\"><img src=\"https://i.postimg.cc/y3kNCtwS/1602772278801.jpg\" alt=\"1602772278801\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15087896,-17.38648091,2593 ]
+    },
+    "properties": {
+    "_id":70566368,
+    "_submission_time":"2020-10-15 18:52:40+00",
+    "precision":4,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Hogar",
+    "observaciones":"Botadero nuevo",
+    "photo_url":"<a href=\"https://postimg.cc/fkrLfW97\" target=\"_blank\"><img src=\"https://i.postimg.cc/fkrLfW97/1602773605239.jpg\" alt=\"1602773605239\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15138154,-17.38557014,2609 ]
+    },
+    "properties": {
+    "_id":70566370,
+    "_submission_time":"2020-10-15 18:52:42+00",
+    "precision":4.5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Orgánica",
+    "observaciones":"Nuevo botadero",
+    "photo_url":"<a href=\"https://postimg.cc/4YCxj8wm\" target=\"_blank\"><img src=\"https://i.postimg.cc/4YCxj8wm/1602773796843.jpg\" alt=\"1602773796843\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15089522,-17.39221124,2594 ]
+    },
+    "properties": {
+    "_id":70566372,
+    "_submission_time":"2020-10-15 18:52:44+00",
+    "precision":5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Organica",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/PPvq3GWg\" target=\"_blank\"><img src=\"https://i.postimg.cc/PPvq3GWg/1602776854695.jpg\" alt=\"1602776854695\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.15090528,-17.39326736,2616 ]
+    },
+    "properties": {
+    "_id":70566377,
+    "_submission_time":"2020-10-15 18:52:45+00",
+    "precision":5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Varios",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/hhjvmQfP\" target=\"_blank\"><img src=\"https://i.postimg.cc/hhjvmQfP/1602777569297.jpg\" alt=\"1602777569297\"/></a><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1547866,-17.39607358,2609 ]
+    },
+    "properties": {
+    "_id":70566379,
+    "_submission_time":"2020-10-15 18:52:47+00",
+    "precision":5.5,
+    "objeto":"Botadero",
+    "estado":"",
+    "tipo_de_contenedor":"",
+    "otro_tipo":"",
+    "tipos_de_basura":"Varios",
+    "observaciones":"",
+    "photo_url":"<a href=\"https://postimg.cc/pmDLvD1k\" target=\"_blank\"><img src=\"https://i.postimg.cc/pmDLvD1k/1602778739668.jpg\" alt=\"1602778739668\"/></a><br/><br/>"
+    }
+  }
+]
+}
